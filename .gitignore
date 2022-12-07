@@ -1,0 +1,14 @@
+.idea
+db.sqlite3
+**/migrations/*
+!**/migrations/__init__.py
+!.gitignore
+env
+venv
+all_image_code
+local_settings.py
+__pycache__/
+pyvenv.cfg
+
+Lib
+Scripts
